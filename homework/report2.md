@@ -1,8 +1,7 @@
 # 作業二 — Binary Search Tree 實驗與刪除
 
-> **學號／組別：** 41243220 41243236  
-> **語言：** C++17  
-> **程式檔案：** `src/AllPrograms.cpp`（Section 2 `bst_demo.cpp`）
+> **學號：** 41243220 41243236  
+
 
 ---
 
