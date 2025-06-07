@@ -17,7 +17,6 @@
 ---
 
 ## 二、程式實作
-> 參見 `AllPrograms.cpp` 之 `BST` 類別。主要函式摘要：
 
 ```cpp
 // (b) Delete — O(h)

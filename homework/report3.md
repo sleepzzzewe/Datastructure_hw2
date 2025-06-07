@@ -12,7 +12,6 @@
 ---
 
 ## 二、程式實作
-> 詳見 `double_buffer_demo.cpp`；核心迴圈：
 
 ```cpp
 for(int i=0;i<blocks;++i){

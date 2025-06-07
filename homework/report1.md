@@ -14,7 +14,6 @@
 ---
 
 ## 二、程式實作
-> 詳見 **`AllPrograms.cpp`** 第 1 區塊，亦可獨立編譯 `max_min_heap.cpp`。以下列出關鍵函式：
 
 ```cpp
 void Push(const T& v) {            // O(log n)
